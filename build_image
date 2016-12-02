@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build . -t milanaleksic/awsebcli:3
+docker build . -t milanaleksic/docker-eb:3
